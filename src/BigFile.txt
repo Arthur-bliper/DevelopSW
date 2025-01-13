@@ -1,2 +1,1 @@
-start text
-first player change
+The left panel displays the ref "types" in a tree such as tags, heads (local branches) and so on.
